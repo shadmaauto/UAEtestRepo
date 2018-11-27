@@ -10,8 +10,12 @@ import com.talabat.base.TestBase;
 import com.talabat.pages.HomePage;
 import com.talabat.pages.LoginPage;
 
+/*This class covers the test cases of Login Page of Talabat website*/
+
 public class LoginPageTest extends TestBase{
 
+	
+	
 	LoginPage loginPage;
 	HomePage homePage;
 	

@@ -15,6 +15,8 @@ import com.talabat.pages.MostSellingPage;
 import com.talabat.pages.OffersPage;
 import com.talabat.pages.SearchResultsPage;
 
+/*This class covers the test cases of Homepage of Talabat website*/
+
 public class HomePageTest extends TestBase{
 	
 	LoginPage loginPage;
