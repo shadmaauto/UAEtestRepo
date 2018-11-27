@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Talabat Test Suite]">
+  <listeners>
+    <listener class-name="com.talabat.ExtentReportListener.ExtentReportListener"/>
+  </listeners>
+  <test thread-count="5" name="Talabat WebSite Test Cases(failed)">
+    <classes>
+      <class name="com.talabat.tests.AllRestaurantsPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifySearchRestaurantByNameTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.talabat.tests.AllRestaurantsPageTest -->
+    </classes>
+  </test> <!-- Talabat WebSite Test Cases(failed) -->
+</suite> <!-- Failed suite [Talabat Test Suite] -->

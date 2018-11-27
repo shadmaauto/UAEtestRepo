@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Talabat Test Suite">
+
+	<listeners>
+	<listener class-name="com.talabat.ExtentReportListener.ExtentReportListener"></listener>
+	</listeners>
+
+	<test name="Talabat WebSite Test Cases">
+	 <classes>
+					  <class name="com.talabat.tests.HomePageTest"></class> 
+					  <class name="com.talabat.tests.LoginPageTest"></class>
+ 					  <class name="com.talabat.tests.AllRestaurantsPageTest"></class>
+ 					 		
+	</classes>
+	</test>
+	</suite>
