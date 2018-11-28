@@ -17,6 +17,7 @@ import com.talabat.pages.LoginPage;
 import com.talabat.pages.SearchResultsPage;
 import com.talabat.pages.SpecificRestaurantPage;
 
+/*This class covers all test cases of All Restaurants Page of Talabat Website.*/
 public class AllRestaurantsPageTest extends TestBase{
 
 	HomePage homePage;
