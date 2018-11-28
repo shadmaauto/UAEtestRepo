@@ -34,6 +34,7 @@ import org.openqa.selenium.support.ui.Select;
 import com.talabat.utilities.TestUtil;
 import com.talabat.utilities.WebEventListener;
 
+/* This is aclass with basic methods and functionalities to be used in the entire project*/
 public class TestBase {
 	
  public static WebDriver DRIVER;
