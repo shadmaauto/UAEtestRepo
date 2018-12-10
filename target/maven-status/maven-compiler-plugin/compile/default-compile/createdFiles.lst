@@ -1,0 +1,12 @@
+com\talabat\pages\SearchResultsPage.class
+com\talabat\pages\AllRestaurantsPage.class
+com\talabat\ExtentReportListener\ExtentReportListener.class
+com\talabat\pages\LoginPage.class
+com\talabat\pages\OffersPage.class
+com\talabat\pages\CreateAccountPage.class
+com\talabat\pages\MostSellingPage.class
+com\talabat\pages\SpecificRestaurantPage.class
+com\talabat\base\TestBase.class
+com\talabat\utilities\WebEventListener.class
+com\talabat\pages\HomePage.class
+com\talabat\utilities\TestUtil.class

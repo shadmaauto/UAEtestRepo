@@ -1,9 +1,12 @@
+C:\Users\shadm\Documents\f2\talabatTest\src\main\java\com\talabat\ExtentReportListener\ExtentReportListener.java
+C:\Users\shadm\Documents\f2\talabatTest\src\main\java\com\talabat\pages\SpecificRestaurantPage.java
 C:\Users\shadm\Documents\f2\talabatTest\src\main\java\com\talabat\pages\LoginPage.java
+C:\Users\shadm\Documents\f2\talabatTest\src\main\java\com\talabat\pages\MostSellingPage.java
 C:\Users\shadm\Documents\f2\talabatTest\src\main\java\com\talabat\utilities\TestUtil.java
 C:\Users\shadm\Documents\f2\talabatTest\src\main\java\com\talabat\base\TestBase.java
+C:\Users\shadm\Documents\f2\talabatTest\src\main\java\com\talabat\pages\SearchResultsPage.java
 C:\Users\shadm\Documents\f2\talabatTest\src\main\java\com\talabat\pages\HomePage.java
-C:\Users\shadm\Documents\f2\talabatTest\src\main\java\com\talabat\pages\OffersCoupons.java
 C:\Users\shadm\Documents\f2\talabatTest\src\main\java\com\talabat\pages\CreateAccountPage.java
-C:\Users\shadm\Documents\f2\talabatTest\src\main\java\com\talabat\pages\MostSellingByRestaurant.java
-C:\Users\shadm\Documents\f2\talabatTest\src\main\java\com\talabat\pages\OffersPromotions.java
-C:\Users\shadm\Documents\f2\talabatTest\src\main\java\com\talabat\pages\MostSellingBestSellers.java
+C:\Users\shadm\Documents\f2\talabatTest\src\main\java\com\talabat\pages\AllRestaurantsPage.java
+C:\Users\shadm\Documents\f2\talabatTest\src\main\java\com\talabat\pages\OffersPage.java
+C:\Users\shadm\Documents\f2\talabatTest\src\main\java\com\talabat\utilities\WebEventListener.java

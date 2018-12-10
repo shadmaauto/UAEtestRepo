@@ -3,18 +3,13 @@ package com.talabat.tests;
 import java.io.IOException;
 import java.util.List;
 
-import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
-
 
 import com.talabat.base.TestBase;
 import com.talabat.pages.AllRestaurantsPage;
 import com.talabat.pages.HomePage;
-import com.talabat.pages.LoginPage;
-import com.talabat.pages.SearchResultsPage;
 import com.talabat.pages.SpecificRestaurantPage;
 
 /*This class covers all test cases of All Restaurants Page of Talabat Website.*/
@@ -44,6 +39,7 @@ public class AllRestaurantsPageTest extends TestBase{
 		allRestPg.verifyRestaurantLinkByName("Baba Jan");
 	}
 	
+	/*This method is for testing search by restaurant name feature on All Restaurants Page*/
 	@Test
 	public void verifySearchRestaurantByNameTest() throws IOException {
 		List<Integer> liData=getAllMatchedRowNumberList("TC_001");
